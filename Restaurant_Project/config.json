@@ -1,0 +1,8 @@
+{
+    "connection" : "mongodb://localhost:27017/",
+    "db_name" : "RestauranDB",
+    "MenuItems_collection" : "MenuItems",
+    "Orders_collection" : "Orders",
+    "Customers_collection" : "Customers",
+    "CustomerFeedback_collection" : "CustomerFeedback"
+}
